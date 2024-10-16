@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "888208271768",
+    "firebase_url": "https://tiket-trip-default-rtdb.firebaseio.com",
+    "project_id": "tiket-trip",
+    "storage_bucket": "tiket-trip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888208271768:android:c7ef3f85da51b2f50963ed",
+        "android_client_info": {
+          "package_name": "ic.ac.polihasnur.ti.haqi.tikettrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-S2IgzgyXS-7ER58ZOvtUCFyEnBaLIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

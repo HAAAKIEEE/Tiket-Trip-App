@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tiket Trip</string>
+    <string name="signom">SIGN IN</string>
+    <string name="username_lable">Username</string>
+    <string name="password_lable">Password</string>
+    <string name="email_label">Email Addres</string>
+    <string name="name_label">Name</string>
+    <string name="job_label">Your Passion</string>
+    <string name="explore">EXPLORE NOW</string>
+</resources>

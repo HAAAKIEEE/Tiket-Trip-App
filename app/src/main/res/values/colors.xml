@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="primary">#696EF4</color>
+    <color name="secondary">#D7D1FF</color>
+    <color name="third">#7966FF</color>
+    <color name="forth">#262CB9</color>
+    <color name="opsional">#9EB7FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="bg_primary">#EDF1F8</color>
+</resources>
